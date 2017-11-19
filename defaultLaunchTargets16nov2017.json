@@ -1,0 +1,90 @@
+{
+  "amazonwebservices": [
+    {
+      "region": "ap-northeast-1",
+      "imageId": "ami-4764c226",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "ap-northeast-2",
+      "imageId": "ami-3de23653",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "ap-south-1",
+      "imageId": "ami-a65420c9",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "ap-southeast-1",
+      "imageId": "ami-c13690a2",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "ap-southeast-2",
+      "imageId": "ami-b6370ad5",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "eu-central-1",
+      "imageId": "ami-b87881d7",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "eu-west-1",
+      "imageId": "ami-3e713f4d",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "sa-east-1",
+      "imageId": "ami-7238a51e",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "us-east-1",
+      "imageId": "ami-38de8d2f",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "us-east-2",
+      "imageId": "ami-58045e3d",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "us-west-1",
+      "imageId": "ami-a4175cc4",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    },
+    {
+      "region": "us-west-2",
+      "imageId": "ami-cbd276ab",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    }
+  ],
+  "digitalocean": [
+    {
+      "imageId": "ubuntu-16-10-x64",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    }
+  ],
+  "googlecomputeengine": [
+    {
+      "imageId": "projects/ubuntu-os-cloud/global/images/ubuntu-1604-xenial-v20161020",
+      "instanceType": "pvhvm",
+      "name": "Ubuntu 16.10 (64bit)"
+    }
+  ]
+}
