@@ -2,89 +2,107 @@
   "amazonwebservices": [
     {
       "region": "ap-northeast-1",
-      "imageId": "ami-4764c226",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-c317aaa5",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "ap-northeast-2",
-      "imageId": "ami-3de23653",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-eb69ce85",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "ap-south-1",
-      "imageId": "ami-a65420c9",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-2e064841",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "ap-southeast-1",
-      "imageId": "ami-c13690a2",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-685a0c0b",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "ap-southeast-2",
-      "imageId": "ami-b6370ad5",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-b4e40ed6",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "eu-central-1",
-      "imageId": "ami-b87881d7",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-565cde39",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "eu-west-1",
-      "imageId": "ami-3e713f4d",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-1b2c9b62",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "sa-east-1",
-      "imageId": "ami-7238a51e",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-48aaef24",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "us-east-1",
-      "imageId": "ami-38de8d2f",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-534bc129",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "us-east-2",
-      "imageId": "ami-58045e3d",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-27c2ec42",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "us-west-1",
-      "imageId": "ami-a4175cc4",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-bfc6fedf",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     },
     {
       "region": "us-west-2",
-      "imageId": "ami-cbd276ab",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ami-599c4021",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
+    },
+    {
+      "region": "eu-west-2",
+      "imageId": "ami-b9f1eedd",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
+    },
+    {
+      "region": "ca-central-1",
+      "imageId": "ami-63833807",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
+    },
+    {
+      "region": "ca-central-1",
+      "imageId": "ami-63833807",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     }
   ],
   "digitalocean": [
     {
-      "imageId": "ubuntu-16-10-x64",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "ubuntu-17-10-x64",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     }
   ],
   "googlecomputeengine": [
     {
-      "imageId": "projects/ubuntu-os-cloud/global/images/ubuntu-1604-xenial-v20161020",
-      "instanceType": "pvhvm",
-      "name": "Ubuntu 16.10 (64bit)"
+      "imageId": "projects/ubuntu-os-cloud/global/images/ubuntu-1710-artful-v20171122",
+      "instanceType": "hvm",
+      "name": "Ubuntu 17.10 (64bit)"
     }
   ]
 }
